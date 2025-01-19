@@ -111,8 +111,8 @@ Flight_Price_Prediction/
 ---
 
 ## Contributors
-- Md Aftab
 - Sourav Sharma
+- Md Aftab
 - Tojum Tasar
 
 Feel free to reach out for any queries or suggestions!
